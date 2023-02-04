@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "awObkqmWUMQWzaFHweujrDT7gVnex71iEyrD1j6dXXtgXVzlSzqG24DHX17Jxz7D9Ho7KfFdr5lDXb8G/7SlSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aqsas\\source\\repos\\WeatherApp-master\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aqsas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aqsas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aqsas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aqsas\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\aqsas\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}
